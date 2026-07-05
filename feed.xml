@@ -9,6 +9,28 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://auraroundwithstar.github.io/news-digest-feed/cover.png"/>
     <item>
+      <title>ニュースダイジェスト 7/6（デイリー）</title>
+      <description>本日のニュース見出しです。技術系8本、経済系4本。
+まずはテクノロジー。
+1本目、アマゾン Mechanical Turk、7月30日で新規受付終了──2005年開始のエーダブリューエスのクラウドソーシング。
+2本目、はやぶさ2、小惑星トリフネに最接近し無事通過 地球防衛プラネタリーディフェンスに日本が貢献も。
+3本目、PorteuXレビュー--簡単にインストールできる優れたポータブルLinuxディストロ。
+4本目、あなたがオーエスとなってプロセス・メモリ・入出力イベントを管理しなければならないゲームYou’re the オーエス!。
+5本目、労働時間を長くしたい男性3％・女性6％どんな人？ 東大が調査。
+6本目、JAXA、探査機や衛星に対話エーアイ--テレメトリを同僚との会話風に引き出し、現場の認知負荷低減。
+7本目、米成人の61％、医療情報にエーアイを利用--2024年の2％から激増。
+8本目、エーアイ時代に大学のコンピューターサイエンス学科はどうやって学生を教育すればいいのか？。
+続いて経済。
+1本目、2026年後半の日本株は｢上昇トレンド継続｣でも､｢そのスピードは鈍る｣と見る｢3つの根拠｣。
+2本目、日銀利上げで見せた内田副総裁の執念〈後編〉｢超円安｣｢国債下落｣異次元緩和の負の遺産で逃げる前総裁と逃げぬ副総裁。
+3本目、ハンガリー新政権の経済政策に中国企業や韓国企業だけでなく日系企業も不安視､最大の焦点は｢外国人労働者｣規制。
+4本目、｢香港の次は台湾､そして日本｣中国での禁書を販売し拘束された林栄基さんが死去､言論弾圧と戦った書店主が託した警告。
+以上、本日の見出しでした。</description>
+      <enclosure url="https://auraroundwithstar.github.io/news-digest-feed/audio/news_daily_20260706.mp3" length="1379853" type="audio/mpeg"/>
+      <guid isPermaLink="false">news_daily_20260706</guid>
+      <pubDate>Mon, 06 Jul 2026 07:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>ニュースダイジェスト 7/5（デイリー）</title>
       <description>本日のニュース見出しです。技術系8本、経済系8本。
 まずはテクノロジー。
@@ -163,27 +185,6 @@
       <enclosure url="https://auraroundwithstar.github.io/news-digest-feed/audio/news_daily_20260630.mp3" length="1600173" type="audio/mpeg"/>
       <guid isPermaLink="false">news_daily_20260630</guid>
       <pubDate>Tue, 30 Jun 2026 07:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ニュースダイジェスト 6/29（デイリー）</title>
-      <description>本日のニュース見出しです。技術系8本、経済系3本。
-まずはテクノロジー。
-1本目、HTTPステータスコード百人一首や“社長として情報漏えいを防ぐゲーム”も 日本屈指のボードゲーム即売会で見つけた“アイティー卓ゲ”たち。
-2本目、スマホカメラが本物のカメラに到底かなわない6つの理由。
-3本目、第3回 エージェンティックエーアイに求められるセキュリティ戦略の再設計。
-4本目、各種パーツを交換可能なモジュール式ノートPCFramework Laptopの10GbEモジュールが激熱になるとの報告。
-5本目、オープンエーアイ、次世代AIGPT-5.6を限定プレビュー──米政府の要請で全面公開見送り恒久的な標準にすべきでない。
-6本目、iPadやMacの値上げは本当に不可避だったのか--高い利益率、米議員はアップルを強欲と非難。
-7本目、変化の時代に貫くべきものとは--エーダブリューエス Summitで語られたフライホイールの次なる駆動力。
-8本目、Amazonの闇賄賂の実態、販売停止解除や競合排除を請け負うAmazon従業員へ仲介する業者の存在が明らかに。
-続いて経済。
-1本目、7月発表の短観予測 イラン情勢影響で悪化予測多く。
-2本目、日本の原油調達､6月はアメリカ産が4割にメキシコ湾岸やアラスカ発の原油タンカーが続々と日本へ。
-3本目、"総利益100億円"の専業投資家テスタ氏が投資哲学を語り尽くす｢日経平均株価の予想には意味がない｣。
-以上、本日の見出しでした。</description>
-      <enclosure url="https://auraroundwithstar.github.io/news-digest-feed/audio/news_daily_20260629.mp3" length="1168461" type="audio/mpeg"/>
-      <guid isPermaLink="false">news_daily_20260629</guid>
-      <pubDate>Mon, 29 Jun 2026 07:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
