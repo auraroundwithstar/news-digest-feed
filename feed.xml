@@ -9,6 +9,32 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://auraroundwithstar.github.io/news-digest-feed/cover.png"/>
     <item>
+      <title>ニュースダイジェスト 7/28（デイリー）</title>
+      <description>本日のニュース見出しです。技術系8本、経済系8本。
+まずはテクノロジー。
+1本目、アマゾン Leo、スマホと直接つながる衛星5105基をFCCに申請 2028年配備へ。
+2本目、チャットジーピーティーの音声モードに慣れると、キーボードには戻れなくなるという話。
+3本目、エヌビディア、Open Secure エーアイ Allianceを設立--OSS脆弱性をエーアイで解決。
+4本目、高齢者を狙ったエーアイ音声詐欺が急増中、たった3秒の音声データでエーアイ音声クローンが作られてしまう。
+5本目、エヌビディアやマイクロソフトなど30社超、オープンエーアイの防御ツール共同開発のOpen Secure エーアイ Alliance設立。
+6本目、マイクロソフト、ミュトス超えの新セキュリティAIMAI-Cyber-1-Flash発表。
+7本目、日本マイクロソフト、Copilotの進化でエーアイ活用を次の段階へ。
+8本目、Firefoxがリリースサイクルを4週間から2週間に短縮、準備の整った機能をユーザーに頻繁に届けられるように。
+続いて経済。
+1本目、エディオン会長 ヤマダHDとの統合対等の精神は譲れない。
+2本目、財政拡張するかどうかは金利次第､高市政権初の〈骨太方針〉財政健全化目標を捨てても債券市場がブレーキをかける。
+3本目、スマホ法に基づきグーグルとアップルが公取委提出の報告書公表。
+4本目、東京23区 単身向けマンションの平均家賃11.4万円余 上昇続く。
+5本目、円相場 いくぶん値上がり 原油の先物価格下落に伴い。
+6本目、株価 値上がり 幅広い銘柄で買い注文。
+7本目、きょうのおはBiz 7月27日(月)暑い前橋でいま熱い！バナナ。
+8本目、米国産生鮮ジャガイモ 輸入解禁手続き進む一方で懸念の声も。
+以上、本日の見出しでした。</description>
+      <enclosure url="https://auraroundwithstar.github.io/news-digest-feed/audio/news_daily_20260728.mp3" length="1505421" type="audio/mpeg"/>
+      <guid isPermaLink="false">news_daily_20260728</guid>
+      <pubDate>Tue, 28 Jul 2026 07:30:00 +0900</pubDate>
+    </item>
+    <item>
       <title>ニュースダイジェスト 7/27（デイリー）</title>
       <description>本日のニュース見出しです。技術系8本、経済系7本。
 まずはテクノロジー。
@@ -162,28 +188,6 @@
       <enclosure url="https://auraroundwithstar.github.io/news-digest-feed/audio/news_daily_20260722.mp3" length="1624365" type="audio/mpeg"/>
       <guid isPermaLink="false">news_daily_20260722</guid>
       <pubDate>Wed, 22 Jul 2026 07:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ニュースダイジェスト 7/21（デイリー）</title>
-      <description>本日のニュース見出しです。技術系8本、経済系4本。
-まずはテクノロジー。
-1本目、AMDとマイクロソフトが戦略的提携を拡大 新エーアイラックスケールHeliosをAzureに大規模導入へ。
-2本目、ClaudeのFable 5、結局標準搭載へ ただし1万6000円以上の月額課金が必要。
-3本目、SIの消滅を予見したJBCCが導き出したエーアイサービスモデル構想という答え。
-4本目、音楽ストリーミングサービスが普及した時代に音楽海賊版の失われた喜びをアーティストが語る。
-5本目、アップルはもうメモリのお得意様ではない？ エヌビディアだけでアイフォン数億台分、苦境に陥った”買いたたき王者”のいま前編。
-6本目、なぜオンラインカジノは違法で危険なのか--借金を返せない場合の対処法も弁護士が解説。
-7本目、エスコンフィールドを舞台に繰り広げるアクセラレーションプログラムHFX。
-8本目、フランス賭博規制庁が予測市場・Polymarketへのアクセスを遮断。
-続いて経済。
-1本目、生産地 備蓄米の早期買い戻し求める声強まる 政府は慎重に検討。
-2本目、｢社会保険料を下げろ｣の大合唱が医療保障を壊す病に苦しむ患者の負担増で現役世代の手取りを増やす危うさ。
-3本目、トヨタ 近健太社長 “開発や生産の効率化進め 稼ぐ力強化を”。
-4本目、NY原油市場 1バレル＝85ドル台に上昇 1か月ぶりの高値水準。
-以上、本日の見出しでした。</description>
-      <enclosure url="https://auraroundwithstar.github.io/news-digest-feed/audio/news_daily_20260721.mp3" length="1157805" type="audio/mpeg"/>
-      <guid isPermaLink="false">news_daily_20260721</guid>
-      <pubDate>Tue, 21 Jul 2026 07:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
